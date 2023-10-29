@@ -1,0 +1,29 @@
+/* .navv{
+  display: flex;
+  justify-content: space-between;
+}
+.navbar-brand{
+  font-size: 32px;
+  font-weight: 900;
+  margin: 0px;
+} */
+
+.heade{
+  display: flex;
+  justify-content: space-between;
+}
+.headd{
+  display: flex;
+}
+.brand1{
+  font-size: 25px;
+  font-weight: 700;
+}
+.icons a{
+  cursor: pointer;
+  margin-right: 20px;
+}
+button{
+  background-color: white;
+  color: black;
+}

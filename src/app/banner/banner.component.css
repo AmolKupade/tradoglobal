@@ -1,0 +1,51 @@
+/* .links{
+  display: flex;
+
+
+}
+
+.align{
+  margin-left: 400px;
+}
+
+ul{
+ list-style-type: none;
+
+}
+.links a{
+  color: black;
+  font-size: 20px;
+  font-weight: 500;
+  text-decoration: none;
+  padding: 15px;
+}
+
+.links a:hover{
+  cursor: pointer;
+  color: rgb(40, 40, 202);
+}
+
+
+.bar{
+  display: flex;
+}
+.block{
+  display: inline;
+}
+h5{
+  color: red;
+}
+.vi{
+  display: flex;
+}
+h6{
+  margin-top: 3px;
+  text-decoration: line-through;
+} */
+
+.menu a{
+
+ text-decoration: none;
+ margin-right: 15px;
+
+}
